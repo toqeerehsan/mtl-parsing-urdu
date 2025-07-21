@@ -29,7 +29,7 @@ This is the **first publicly available dataset and parser for joint syntactic-se
 ---
 
 ## 📂 Project Structure
-´´´yaml
+´´´bash
 .
 ├── data/ # Urdu syntactic & semantic datasets
 ├── mtl_parser.py # Main multitask parser code
@@ -69,10 +69,9 @@ python tree2.py                # Converts semantic parses
 ---
 
 ## Citations
-´´´yaml
-
 if you use this code or dataset, please cite:
 
+´´´bash
 @article{ehsan2025multi,
   title={Multi-Task Learning by using Contextualized Word Representations for Syntactic Parsing of a Morphologically-rich Language},
   author={Ehsan, Toqeer and Butt, Miriam and Hussain, Sarmad and Alhuzali, Hassan and Al-Laith, Ali},
