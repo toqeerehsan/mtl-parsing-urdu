@@ -1,0 +1,10 @@
+__pycache__/\n*.pyc\n.env\nvenv/
+__pycache__/
+*.log
+checkpoints/
+data/temp/
+trained_models/
+dep2label-master/
+data/elmo_220m/
+data/w2v_220m/
+
