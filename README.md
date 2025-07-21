@@ -37,7 +37,7 @@ This is the **first publicly available dataset and parser for joint syntactic-se
 ├── tree2.py # Semantic tree conversion script
 ├── .gitignore # Files/folders to be ignored by Git
 └── .gitattributes # Git LFS tracked files
-´´´
+```
 
 ---
 
@@ -111,4 +111,4 @@ if you use this code or dataset, please cite:
   year={2019},
   publisher={IEEE}
 }
-´´´
+```
