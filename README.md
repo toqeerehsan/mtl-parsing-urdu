@@ -2,7 +2,7 @@
 
 This repository contains code, models, and data for the paper:
 
-**MMulti-Task Learning by using Contextualized Word Representations for Syntactic Parsing of a Morphologically-rich Language**  
+**Multi-Task Learning by using Contextualized Word Representations for Syntactic Parsing of a Morphologically-rich Language**  
 *Toqeer Ehsan, Miriam Butt, Sarmad Hussain, Hassan Alhuzali and Ali Al-Laith*   
 Submitted in *PLOS ONE*, 2025
 
