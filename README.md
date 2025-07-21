@@ -39,12 +39,16 @@ This is the **first publicly available dataset and parser for joint syntactic-se
 └── .gitattributes # Git LFS tracked files
 ´´´
 
+---
+
 ## Dataset
 
 The datasets are based on:
 
 - A syntactic corpus built from Urdu Treebank-style annotations  
 - A grammatical role labeling structure using Urdu PropBank-style structures  
+
+---
 
 ## Requirements
 
@@ -64,8 +68,8 @@ python mtl_parser.py
 # Evaluation
 python labels2brackets.py      # Converts predicted parse trees  
 python tree2.py                # Converts semantic parses  
-
 ```
+
 ---
 
 ## Citations
