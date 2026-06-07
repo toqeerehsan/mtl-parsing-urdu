@@ -2,11 +2,14 @@ README.md: |
   # Urdu Parsing Toolkit: Multi-Task Constituency and Dependency Parsing
 
   [![Paper](https://img.shields.io/badge/Paper-PLOS%20ONE%202025-blue)](https://doi.org/10.1371/journal.pone.0332580)
+  [![Treebank](https://img.shields.io/badge/Paper-PLOS%20ONE%202025-blue)](https://doi.org/10.1007/s10579-020-09518-0)
+  [![Analysis](https://img.shields.io/badge/Paper-PLOS%20ONE%202025-blue)](https://doi.org/10.1109/ACCESS.2019.2949950)
   [![Language](https://img.shields.io/badge/Language-Urdu-green)]()
   [![Task](https://img.shields.io/badge/Tasks-Constituency%20Parsing%20%7C%20Dependency%20Parsing-orange)]()
   [![NLP](https://img.shields.io/badge/Area-Low--Resource%20NLP-purple)]()
   [![License](https://img.shields.io/badge/License-Research-lightgrey)]()
 
+  
   Official repository for the PLOS ONE 2025 paper:
 
   **Multi-task learning by using contextualized word representations for syntactic parsing of a morphologically rich language**
@@ -117,3 +120,57 @@ README.md: |
   - Evaluation scripts
   - Tree conversion utilities
   - Reproducible experiment files
+
+## Citation
+
+  If you use this repository, code, models, embeddings, dataset, conversion rules, or results, please cite the following paper:
+
+  ```bibtex
+  @article{ehsan2025multi,
+  title={Multi-task learning by using contextualized word representations for syntactic parsing of a morphologically rich language},
+  author={Ehsan, Toqeer and Butt, Miriam and Hussain, Sarmad and Alhuzali, Hassan and Al-Laith, Ali},
+  journal={Plos one},
+  volume={20},
+  number={9},
+  pages={e0332580},
+  year={2025},
+  publisher={Public Library of Science San Francisco, CA USA}
+ }
+  ```
+
+  ## Related Publications
+
+  Please also consider citing the related Urdu treebank and dependency parsing resources:
+
+  ```bibtex
+  title={Development and evaluation of an Urdu treebank (CLE-UTB) and a statistical parser},
+  author={Ehsan, Toqeer and Hussain, Sarmad},
+  journal={Language Resources and Evaluation},
+  volume={55},
+  number={2},
+  pages={287--326},
+  year={2021},
+  publisher={Springer}
+  }
+  ```
+
+  ```bibtex
+  title={Dependency parsing for Urdu: Resources, conversions and learning},
+  author={Ehsan, Toqeer and Butt, Miriam},
+  booktitle={Proceedings of the Twelfth Language Resources and Evaluation Conference},
+  pages={5202--5207},
+  year={2020}
+  }  
+  ```
+  
+  ```bibtex
+  @article{ehsan2019analysis,
+  title={Analysis of experiments on statistical and neural parsing for a orphologically rich and free word order language Urdu},
+  author={Ehsan, Toqeer and Hussain, Sarmad},
+  journal={IEEE Access},
+  volume={7},
+  pages={161776--161793},
+  year={2019},
+  publisher={IEEE}
+  }
+  ```
