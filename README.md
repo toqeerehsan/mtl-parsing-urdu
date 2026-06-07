@@ -2,8 +2,6 @@ README.md: |
   # Urdu Parsing Toolkit: Multi-Task Constituency and Dependency Parsing
 
   [![Paper](https://img.shields.io/badge/Paper-PLOS%20ONE%202025-blue)](https://doi.org/10.1371/journal.pone.0332580)
-  [![Treebank](https://img.shields.io/badge/Paper-PLOS%20ONE%202025-blue)](https://doi.org/10.1007/s10579-020-09518-0)
-  [![Analysis](https://img.shields.io/badge/Paper-PLOS%20ONE%202025-blue)](https://doi.org/10.1109/ACCESS.2019.2949950)
   [![Language](https://img.shields.io/badge/Language-Urdu-green)]()
   [![Task](https://img.shields.io/badge/Tasks-Constituency%20Parsing%20%7C%20Dependency%20Parsing-orange)]()
   [![NLP](https://img.shields.io/badge/Area-Low--Resource%20NLP-purple)]()
