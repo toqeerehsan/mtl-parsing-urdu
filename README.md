@@ -1,10 +1,11 @@
 # Multi-Task Learning by using Contextualized Word Representations for Syntactic Parsing of a Morphologically Rich Language
 
-This repository contains code, models, and data for the paper:
+**Multi-Task** We address the challenge of syntactic parsing for Urdu, a morphologically rich language, and present state-of-the-art results for both constituency and dependency parsing. This paper offers four major contributions: 1) the conversion of the CLE-UTB phrase structure treebank into a dependency treebank by developing language-specific head-word and phrase-to-dependency label mapping rules; 2) a novel sequence labeling scheme that transforms the parsing task into a unified representation; 3) the training of contextualized word representations on a large 220 million tokens Urdu corpus collected from the web; and 4) development of parsing framework using two learning paradigms, single-task and multi-task learning. Several post-processing rules are applied to improve the quality of the automatically converted dependency structure treebank. The proposed sequence labeling scheme enables the use of a shared architecture that learns the syntactic structures from both grammatical structures simultaneously and hence improves generalization. Experiments show that the multi-task learning setup significantly enhances parsing performance, achieving an F1 score of 91.39 for constituency parsing (an improvement of 3.29 points) and a labeled attachment score of 85.69 for dependency parsing (an improvement of 1.49 points). These results demonstrate that learning cross-task representations provides measurable benefits and advances the state of syntactic parsing for Urdu.
 
 **Multi-Task Learning by using Contextualized Word Representations for Syntactic Parsing of a Morphologically-rich Language**  
 *Toqeer Ehsan, Miriam Butt, Sarmad Hussain, Hassan Alhuzali and Ali Al-Laith*   
 Published in *PLOS ONE*, 2025
+This repository contains code, models, and data for the paper:
 
 ---
 
