@@ -1,10 +1,10 @@
-# Multi-task Learning for Joint Grammatical and Semantic Parsing in Low-resource Settings
+# Multi-Task Learning by using Contextualized Word Representations for Syntactic Parsing of a Morphologically Rich Language
 
 This repository contains code, models, and data for the paper:
 
 **Multi-Task Learning by using Contextualized Word Representations for Syntactic Parsing of a Morphologically-rich Language**  
 *Toqeer Ehsan, Miriam Butt, Sarmad Hussain, Hassan Alhuzali and Ali Al-Laith*   
-Submitted in *PLOS ONE*, 2025
+Published in *PLOS ONE*, 2025
 
 ---
 
@@ -77,16 +77,18 @@ if you use this code or dataset, please cite:
 
 ```yaml
 @article{ehsan2025multi,
-  title={Multi-Task Learning by using Contextualized Word Representations for Syntactic Parsing of a Morphologically-rich Language},
+  title={Multi-task learning by using contextualized word representations for syntactic parsing of a morphologically rich language},
   author={Ehsan, Toqeer and Butt, Miriam and Hussain, Sarmad and Alhuzali, Hassan and Al-Laith, Ali},
-  journal={PLOS ONE},
-  volume={},
-  pages={},
-  year={2025}
+  journal={Plos one},
+  volume={20},
+  number={9},
+  pages={e0332580},
+  year={2025},
+  publisher={Public Library of Science San Francisco, CA USA}
 }
 
 @article{ehsan2021development,
-  title={Development and Evaluation of an Urdu Treebank (CLE-UTB) and a Statistical Parser},
+  title={Development and evaluation of an Urdu treebank (CLE-UTB) and a statistical parser},
   author={Ehsan, Toqeer and Hussain, Sarmad},
   journal={Language Resources and Evaluation},
   volume={55},
@@ -96,14 +98,16 @@ if you use this code or dataset, please cite:
   publisher={Springer}
 }
 
-@article{ehsan2020dependency,
-  title={Dependency Parsing for Urdu: Resources, conversions and learning},
+@inproceedings{ehsan2020dependency,
+  title={Dependency parsing for Urdu: Resources, conversions and learning},
   author={Ehsan, Toqeer and Butt, Miriam},
+  booktitle={Proceedings of the Twelfth Language Resources and Evaluation Conference},
+  pages={5202--5207},
   year={2020}
 }
 
 @article{ehsan2019analysis,
-  title={Analysis of Experiments on Statistical and Neural Parsing for a Morphologically Rich and Free Word Order Language Urdu},
+  title={Analysis of experiments on statistical and neural parsing for a morphologically rich and free word order language Urdu},
   author={Ehsan, Toqeer and Hussain, Sarmad},
   journal={IEEE Access},
   volume={7},
